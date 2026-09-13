@@ -90,6 +90,9 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 
   **TABULATION:**
+  
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 07 PM (5)" src="https://github.com/user-attachments/assets/11d4aa4d-9bfd-4e0e-b75c-72acf90770d5" />
+
  
 
 **MODEL CALCULATION:**
@@ -108,6 +111,9 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **TABULATION:**
 
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 07 PM (6)" src="https://github.com/user-attachments/assets/693cb696-da47-4236-a37b-72f6313449d5" />
+
+
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
   
@@ -121,6 +127,17 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **TABULATION:**
 
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 07 PM (7)" src="https://github.com/user-attachments/assets/c1ea7ef7-09c2-4094-b1af-d262b6aad70d" />
+
+  **Graph**
+
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 08 PM (2)" src="https://github.com/user-attachments/assets/7276a6b8-5ba9-4f6e-a663-58a87e5fd714" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 07 PM (8)" src="https://github.com/user-attachments/assets/e1de1b9e-2178-4308-b31e-ebcdb981f9af" />
+
+
+
+
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
 •	New schematic window open.
@@ -132,6 +149,11 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 11 PM (3)" src="https://github.com/user-attachments/assets/7ea90de0-44cf-47e9-ba72-e3e4786aaba4" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 11 PM (2)" src="https://github.com/user-attachments/assets/1fed19f9-32a2-46c5-b45f-e1dc8e6d23c3" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 10 PM (2)" src="https://github.com/user-attachments/assets/5f0d700b-5b28-4457-93b7-f0e020c175d1" />
+
   
 
 **RESULT:**
