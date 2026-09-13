@@ -73,12 +73,17 @@ Choose R1 = 1kΩ, Rf=10kΩ
 7.	Plot the graph of the input wave versus output wave for any one practical case.
  
 **PIN DIAGRAM:**
+<img width="623" height="293" alt="image" src="https://github.com/user-attachments/assets/a6910844-6f43-4795-8e49-5af96fbb0596" />
+
 
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="776" height="378" alt="image" src="https://github.com/user-attachments/assets/2faabc37-51ec-487b-8706-a33138048251" />
+
 
 
   **MODEL GRAPH:**
+<img width="532" height="372" alt="image" src="https://github.com/user-attachments/assets/120c5c43-9ab2-4e63-b090-28c9229b6868" />
 
 
   **TABULATION:**
@@ -88,18 +93,23 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="733" height="340" alt="image" src="https://github.com/user-attachments/assets/f9f191d7-546c-4a50-a675-8d92ebf942bd" />
+
 
 
   **MODEL GRAPH:**
+<img width="467" height="306" alt="image" src="https://github.com/user-attachments/assets/41a15669-0c06-44cb-af40-a0038b01f6f5" />
 
 
   **TABULATION:**
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="748" height="442" alt="image" src="https://github.com/user-attachments/assets/30c981ed-fe57-41bd-b9dc-d299e29e3ee9" />
 
 
   **MODEL GRAPH:**
+<img width="722" height="315" alt="image" src="https://github.com/user-attachments/assets/44269c6a-e557-49e2-866f-773f2da6c114" />
 
 
   **TABULATION:**
